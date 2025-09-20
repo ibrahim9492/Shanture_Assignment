@@ -1,0 +1,45 @@
+/* Dark theme base */
+body {
+  background-color: #121212;
+  color: #ffffff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Container overrides */
+.container {
+  padding: 1rem;
+}
+
+/* DatePicker custom style */
+.react-datepicker__header {
+  background-color: #1e1e1e;
+  border-bottom: 1px solid #333;
+}
+
+.react-datepicker__current-month,
+.react-datepicker__day-name,
+.react-datepicker__day {
+  color: #fff;
+}
+
+/* Spinner center */
+.spinner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 200px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .d-flex {
+    flex-direction: column !important;
+    gap: 0.5rem !important;
+  }
+}
+
+h2 {
+  margin-bottom: 1rem;
+}
