@@ -36,8 +36,8 @@ To set up the frontend project locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/shanture-frontend.git
-    cd shanture-frontend
+    git clone https://github.com/ibrahim9492/shanture_Assignment.git
+    cd shanture_Assignment
     ```
 2.  **Install dependencies:**
     ```bash
@@ -52,10 +52,9 @@ To set up the frontend project locally:
 To start the development server:
 
 ```bash
-npm start
+npm run dev
 ```
 
-The application will be available at `http://localhost:3000`. Ensure your **backend server is running** and accessible to provide data.
 
 ## 🎨 Styling & Theming
 
@@ -104,4 +103,4 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-  * **Vinay Kumar** - [GitHub Profile](https://www.google.com/search?q=https://github.com/Vinaykumar5890)
+  * **Ibrahim Shaik** - [GitHub Profile](https://www.google.com/search?q=https://github.com/ibrahim9492)
